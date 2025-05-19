@@ -1,4 +1,4 @@
-require_relative '../lib/00_hello'
+require_relative  '../lib/00_hello.rb'
 
 describe "the hello function" do
   it "says hello" do
